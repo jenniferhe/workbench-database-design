@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ds3-workbench_datamodel_20190621" id="12757123-3382-C273-4394-041B88308423" version="3.5">
+<createdBy>JK</createdBy>
+<createdTime>2019-06-21 12:49:19 UTC</createdTime>
+<ownerDesignName>ds3-workbench_datamodel_20190621</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>12757123-3382-C273-4394-041B88308423</designId>
+</OSDM_Design>
